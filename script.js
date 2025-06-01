@@ -58,7 +58,7 @@ function(){
     else{
 
         slidermargin=slidermargin-100
-    sliderimage.style.marginLeft="-"+slidermargin+"vw";
+        sliderimage.style.marginLeft="-"+slidermargin+"vw";
     }
     
     

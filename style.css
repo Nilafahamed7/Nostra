@@ -89,6 +89,7 @@ body{
     width: 100%;
     position: relative;
     border-radius: 5px;
+    overflow: hidden;
 }
 .slider-image-container{
     display: flex;
@@ -99,6 +100,7 @@ body{
     width: 98vw;
     margin:1vw ;
 }
+
 .left-slider-button{
     position: absolute;
     top: 35%;
@@ -132,6 +134,7 @@ body{
     font-size: 2.5vw;
     color: #1d232c;
 }
+
 
 /* brands */
 .brands{
