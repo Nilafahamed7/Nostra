@@ -245,6 +245,7 @@ margin:2vw;
     margin-top: 2vw;
     gap: 20px;
     margin: 2vw;
+    overflow-x:  scroll;
 }
 .most-wanted{
     position: relative;
@@ -262,6 +263,9 @@ margin:2vw;
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 10%;
+}
+.most-wanted::-webkit-scrollbar{
+    appearance: none;
 }
 .like-button{
     position: absolute;
